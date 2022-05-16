@@ -8,7 +8,7 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Coffee2Go - Hello page</title>
+        <title>Coffee2Go — Homepage</title>
       </Head>
 
       <Menu />
